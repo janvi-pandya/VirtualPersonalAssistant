@@ -30,3 +30,9 @@ Expense Manager requirements: {Priority=1}
   - So many more...
 
 Other tasks can be taken up later.
+
+# My take-away from the requirement:
++ I will be using MERN stack to develop the web-tool.
++ Justification:
+  - Based on brief research, after development of this web-tool if in future it has to be transitioned into a mobile-app, using MERN would make it easier.
++ I will be focusing more on developing responsive UI and keeping it as compact and dynamic as possible.
